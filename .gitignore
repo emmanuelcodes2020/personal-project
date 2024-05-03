@@ -22,4 +22,5 @@
 ansible.cfg
 ansible.log
 
+#Git 
 .gitattributes
